@@ -15,4 +15,6 @@ Mi Nombre es Eugenia Ruiz, soy Lic En Higiene y Sefguridad y Enfermera Profesion
 
 Julia Miguens. Soy Ingeniera Industrial y vivo en Capital Federal con mi marido y mi hija Olivia de 2 años. Trabajo hace 3 años en MercadoPago en un equipo de producto. Me gusta hacer ejercicio al aire libre y viajar a donde sea.
 
+Bárbara López. Soy Economista y Diseñadora Gráfica. Soy de Paraguay, Asunción. Trabajo en el Banco Itaú y también en una agencia de MKT. Tengo un fundación de perritos y soy apasionada del Crossfit y de los libros. 
+
 (Presentación breve de cada uno; Nombre Apellido, lugar de Residencia, estudios, trabajo en la actualidad, gustos y hobby)
