@@ -8,6 +8,7 @@ Dentro de la página publicitar ofertas y promociones, realizar búsqueda avanza
 Mediante la opción del registro de clientes ofrecer descuentos especiales y crear una base de datos de nuestros clientes, quienes podrán explorar una amplia gama de productos agregarlos al carrito de compras y realizar pedidos de manera segura y conveniente con envio a domicilio sin cargo dentro del radio de Ciudad. Ofrecer pagos por diferentes medios.
 
 Sitios referentes a Farmacia:
+
 https://www.rxlist.com/ Tiene una interfaz sencilla de usar, minimalista.
 
 https://www.puntofarma.com.py/ Está es la farmacia más grande de Paraguay, su página web es muy llamativa, especialmente por los colores.
