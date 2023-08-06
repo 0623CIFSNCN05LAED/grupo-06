@@ -25,4 +25,7 @@ Julia Miguens. Soy Ingeniera Industrial y vivo en Capital Federal con mi marido 
 
 Bárbara López. Soy Economista y Diseñadora Gráfica. Soy de Paraguay, Asunción. Trabajo en el Banco Itaú y también en una agencia de MKT. Tengo una fundación de perritos y soy apasionada del Crossfit y de los libros. 
 
+Carlos Diaz. Soy Especialista en soporte tecnico e infraestructura de redes. Soy de Cordoba, Argentina. 
+En mis tiempos libres me gusta hacer investigación de historia familiar.
+
 (Presentación breve de cada uno; Nombre Apellido, lugar de Residencia, estudios, trabajo en la actualidad, gustos y hobby)
