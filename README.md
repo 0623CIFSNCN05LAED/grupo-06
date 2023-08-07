@@ -28,4 +28,6 @@ Bárbara López. Soy Economista y Diseñadora Gráfica. Soy de Paraguay, Asunci�
 Carlos Diaz. Soy Especialista en soporte tecnico e infraestructura de redes. Soy de Cordoba, Argentina. 
 En mis tiempos libres me gusta hacer investigación de historia familiar.
 
+Hola, mi nombre es Facundo Auer. Soy de Buenos Aires, zona sur. Estudio Ingeniería Informática y también soy auxiliar en kinesiología. Además, soy programador web. Me encanta salir al aire libre y disfrutar de momentos con amigos. Mi hobby favorito es jugar a Valorant. En este momento, estoy trabajando en un almacén familiar.
+
 (Presentación breve de cada uno; Nombre Apellido, lugar de Residencia, estudios, trabajo en la actualidad, gustos y hobby)
