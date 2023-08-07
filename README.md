@@ -38,4 +38,7 @@ En mis tiempos libres me gusta hacer investigación de historia familiar.
 
 Hola, mi nombre es Facundo Auer. Soy de Buenos Aires, zona sur. Estudio Ingeniería Informática y también soy auxiliar en kinesiología. Además, soy programador web. Me encanta salir al aire libre y disfrutar de momentos con amigos. Mi hobby favorito es jugar a Valorant. En este momento, estoy trabajando en un almacén familiar.
 
+Soy Lautaro Auer y resido en la zona sur de Buenos Aires. Actualmente, estoy en mi último año de la secundaria, enfocado en finalizar mis estudios con éxito. Aunque no tengo un trabajo en este momento, dedico mi tiempo libre a una variedad de actividades que me apasionan. Me encanta sumergirme en el mundo de los juegos, explorando diferentes mundos virtuales y desafiándome en emocionantes aventuras. Además, disfruto expresando mi creatividad a través del dibujo, plasmando mis ideas en papel y creando arte visualmente estimulante. Por otro lado, soy un firme creyente en la importancia del aprendizaje constante, así que también aprovecho mi tiempo para estudiar y adquirir nuevos conocimientos. Estoy emocionado por las oportunidades que el futuro tiene reservadas y por seguir explorando mis intereses mientras continúo mi educación.
+
+
 (Presentación breve de cada uno; Nombre Apellido, lugar de Residencia, estudios, trabajo en la actualidad, gustos y hobby)
