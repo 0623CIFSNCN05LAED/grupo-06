@@ -1,5 +1,20 @@
 # grupo-06
 
+Integrantes:
+
+Mi Nombre es Eugenia Ruiz, soy Lic En Higiene y Sefguridad y Enfermera Profesional, trabajo en la industria del Petroleo hace 20 años. Estudio hace un año cursos que ofrece Digital House porque me gusta en mundo de la programacion. Mi hobby es practicar ciclismo de Ruta.
+
+Julia Miguens. Soy Ingeniera Industrial y vivo en Capital Federal con mi marido y mi hija Olivia de 2 años. Trabajo hace 3 años en MercadoPago en un equipo de producto. Me gusta hacer ejercicio al aire libre y viajar a donde sea.
+
+Bárbara López. Soy Economista y Diseñadora Gráfica. Soy de Paraguay, Asunción. Trabajo en el Banco Itaú y también en una agencia de MKT. Tengo una fundación de perritos y soy apasionada del Crossfit y de los libros. 
+
+Carlos Diaz. Soy Especialista en soporte tecnico e infraestructura de redes. Soy de Cordoba, Argentina. 
+En mis tiempos libres me gusta hacer investigación de historia familiar.
+
+Hola, mi nombre es Facundo Auer. Soy de Buenos Aires, zona sur. Estudio Ingeniería Informática y también soy auxiliar en kinesiología. Además, soy programador web. Me encanta salir al aire libre y disfrutar de momentos con amigos. Mi hobby favorito es jugar a Valorant. En este momento, estoy trabajando en un almacén familiar.
+
+PROYECTO: Sitio de venta Online de una farmacia
+
 Público/Objetivo:
 
 Nuestra página es sobre una Farmacia ubicada en Mendoza Ciudad, que atiende tanto obras sociales como particulares, apunta también al público extranjero(Chile) que compra de contado y realiza viajes en el día para proveerse de medicamentos y perfumería por la diferencia cambiaria. Posicionar la página mediante publicaciones en redes sociales, buscadores etc..
@@ -25,17 +40,10 @@ https://www.carestino.com/ Navegación
 
 https://www.carters.com/ Página de resultados
 
-Integrantes:
 
-Mi Nombre es Eugenia Ruiz, soy Lic En Higiene y Sefguridad y Enfermera Profesional, trabajo en la industria del Petroleo hace 20 años. Estudio hace un año cursos que ofrece Digital House porque me gusta en mundo de la programacion. Mi hobby es practicar ciclismo de Ruta.
+Wireframes:
 
-Julia Miguens. Soy Ingeniera Industrial y vivo en Capital Federal con mi marido y mi hija Olivia de 2 años. Trabajo hace 3 años en MercadoPago en un equipo de producto. Me gusta hacer ejercicio al aire libre y viajar a donde sea.
+Link a la versión desktop: https://www.canva.com/design/DAFq4eZyexo/nopQkYylsOSfRaXn3sCeYQ/edit
+Link a la versión mobile: https://www.canva.com/design/DAFq4gFS1d0/S0rAk5FO9j27J_jaLhxhOg/edit
 
-Bárbara López. Soy Economista y Diseñadora Gráfica. Soy de Paraguay, Asunción. Trabajo en el Banco Itaú y también en una agencia de MKT. Tengo una fundación de perritos y soy apasionada del Crossfit y de los libros. 
 
-Carlos Diaz. Soy Especialista en soporte tecnico e infraestructura de redes. Soy de Cordoba, Argentina. 
-En mis tiempos libres me gusta hacer investigación de historia familiar.
-
-Hola, mi nombre es Facundo Auer. Soy de Buenos Aires, zona sur. Estudio Ingeniería Informática y también soy auxiliar en kinesiología. Además, soy programador web. Me encanta salir al aire libre y disfrutar de momentos con amigos. Mi hobby favorito es jugar a Valorant. En este momento, estoy trabajando en un almacén familiar.
-
-(Presentación breve de cada uno; Nombre Apellido, lugar de Residencia, estudios, trabajo en la actualidad, gustos y hobby)
