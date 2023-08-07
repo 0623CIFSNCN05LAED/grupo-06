@@ -9,6 +9,8 @@ Mediante la opción del registro de clientes ofrecer descuentos especiales y cre
 
 Sitios referentes a Farmacia:
 
+https://www.farmacenter.com.py/
+
 https://www.rxlist.com/ Tiene una interfaz sencilla de usar, minimalista.
 
 https://www.puntofarma.com.py/ Está es la farmacia más grande de Paraguay, su página web es muy llamativa, especialmente por los colores.
@@ -16,6 +18,12 @@ https://www.puntofarma.com.py/ Está es la farmacia más grande de Paraguay, su 
 https://www.walgreens.com/ Tiene una interfaz sencilla de usar.
 
 https://farmaciacatedral.com.py/ Tiene colores muy llamativos, y animaciones en su menú de navegación y tiene cambios automáticos de imágenes en su página incial.
+
+Otros Sitios de referencia:
+
+https://www.carestino.com/ Navegación
+
+https://www.carters.com/ Página de resultados
 
 Integrantes:
 
