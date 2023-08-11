@@ -51,4 +51,4 @@ Wireframes:
 Link a la versión desktop: https://www.canva.com/design/DAFq4eZyexo/nopQkYylsOSfRaXn3sCeYQ/edit
 Link a la versión mobile: https://www.canva.com/design/DAFq4gFS1d0/S0rAk5FO9j27J_jaLhxhOg/edit
 
-
+Link a Trello: https://trello.com/b/K7JwPhDg/grupo-6-dh
