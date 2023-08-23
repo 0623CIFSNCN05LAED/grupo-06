@@ -15,7 +15,7 @@
     opacity: 0.5;
     color: white;
     padding: 5px 3px;
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 .product{
@@ -91,20 +91,22 @@
 
 .add{
     width: 30%;
-    padding: 3px;
+    padding: 5px;
     margin: 5px;
     align-self: center;
     background-color: #00b140;
+    color: white;
     border: none;
     border-radius: 5px;
 }
 
 .fav{
     width: 30%;
-    padding: 3px;
+    padding: 5  px;
     margin: 5px;
     align-self: center;
     background-color: #f9f9f9;
+    color: #e9132a;
     border: none;
     border-radius: 5px;
 }
@@ -112,4 +114,13 @@
 .detailed{
     width: 80%;
     margin: auto;
+}
+
+.detailed-title{
+    padding: 10px 0;
+}
+
+.detailes-lines{
+    padding: 10px 0;
+    border-top: solid 1px #4d4d4d;
 }
