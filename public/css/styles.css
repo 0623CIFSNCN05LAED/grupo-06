@@ -1,11 +1,32 @@
-body{
-
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-header{
-
+.body{
+    font-family: 'Applied sans pro';
 }
 
-footer{
+.route-nav-bar{
+    width: 100%;
+    background-color: #00b140;
+    opacity: 0.5;
+    color: white;
+    padding: 5px 3px;
+    font-size: 6px;
+}
 
+.product-img{
+    width: 100%;
+}
+
+.product{
+    width: 90%;
+    display: flex;
+    border-color: #4d4d4d;
+}
+
+.product-info{
+    border-left: #e9132a 2px;
 }
