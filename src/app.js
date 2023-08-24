@@ -9,9 +9,8 @@ app.use(express.static(path.join(__dirname, "../public")));
 app.listen(PORT, () => {
 console.log(`Se prendió en el puerto ${PORT}`);
 });
-
+ //especificar la ruta("/"raiz), mediante el metodo get, recibe dos parametros (ruta o url y callback)
 app.get("/", (req, res) => {
-    //especificar la ruta("/"raiz), mediante el metodo get, recibe dos parametros (ruta o url y callback)
     res.sendFile(path.join(__dirname, "views/home.html")); // enviar una archivo al navegador, ruta absoluta con ubicacion del archivo
   });
   app.get("/register", (req, res) => {
