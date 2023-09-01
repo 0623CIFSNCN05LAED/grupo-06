@@ -23,15 +23,26 @@
       <input type="password" id="contrasena" name="contrasena" required>
       <input class="botoncito" type="checkbox" id="remember" name="remember">
       <label for="remember">Recordar datos</label>
-
       <div class="button-container">
         <button class="cancel-button" type="button" onclick="cancelLogin()">Cancelar</button>
-         <button class="botonete" type="button">Olvidé mi contraseña</button>
-         <button class="botonete" type="button">Registrarse</button>
-         <button class="accept-button" type="submit">Loguearse</button>
-         <div class="logo">  <i class="fa-solid fa-star-of-life" style="color: #00fd6a;"></i>  </div>
-
-       
+        <button class="botonete" type="button">Olvidé mi contraseña</button>
+        <button class="botonete" type="button" onclick="redirectToRegister()">Registrarse</button>
+        <button class="accept-button" type="submit">Loguearse</button>
+        <div class="logo">
+          <i class="fa-solid fa-star-of-life" style="color: #00fd6a;"></i>
+        </div>
+      </div>
+      
+      <script>
+        function cancelLogin() {
+          // Aquí puedes agregar la lógica para cancelar el proceso de inicio de sesión
+        }
+      
+        function redirectToRegister() {
+          // Redirigir a la página de registro
+          window.location.href = "/register";
+        }
+      </script>
       </div>
     </form>
   </div>
