@@ -1,0 +1,61 @@
+/* Estilos generales del cuerpo del documento */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #D9AFD9;
+  background-image: linear-gradient(0deg, #4CAF50 0%, #4DA8DA 100%);
+  display: flex;
+  justify-content: center; /* Centrar horizontalmente */
+  align-items: center; /* Centrar verticalmente */
+  min-height: 100vh; /* Altura mínima de la ventana */
+}
+
+/* Contenedor principal del formulario */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.form-container {
+  display: flex;
+  justify-content: space-between;
+  width: 640px;
+  padding: 20px;
+  border: 1px solid #4f347a;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  background-color: rgba(111, 112, 179, 0.8);
+}
+
+/* Columnas del formulario (izquierda y derecha) */
+.form-column {
+  flex: 1;
+  padding: 0 10px; /* Espacio entre las partes del "libro" */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.left-column {
+  border-right: 1px solid #ccc; /* Borde entre las columnas */
+}
+
+/* Título principal */
+h1 {
+  display: none; /* Ocultar el título (quizás no sea necesario) */
+}
+
+/* Contenedor de botones */
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px; /* Espacio entre el formulario y los botones */
+}
+
+/* Estilos para los botones */
+button {
+  width: 48%;
+}

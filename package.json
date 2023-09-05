@@ -1,0 +1,16 @@
+{
+  "name": "grupo-06",
+  "version": "1.0.0",
+  "description": "Integrantes:",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "font-awesome": "^4.7.0"
+  }
+}

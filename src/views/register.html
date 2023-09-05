@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.cdnfonts.com/css/applied-sans-pro" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="/css/styles-register.css">
+  <title>Register</title>
+
+  <script src="https://www.google.com/recaptcha/enterprise.js?render=6Lc0yMwnAAAAAOz7v5s4kuoxuyi_tN7a22zEosaQ"></script>
+</head>
+<body>
+  <div class="form-container">
+    <div class="form-column left-column">
+      <form action="/registro" method="post">
+        <label for="nombre">Nombre y Apellido:</label>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+
+        <label for="correo">Correo Electrónico:</label>
+        <div style="display: flex; align-items: center;">
+          <input type="email" id="correo" name="correo" required>
+        </div><br><br>
+
+        <label for="fechaNacimiento">Fecha de Nacimiento:</label>
+        <input type="date" id="fechaNacimiento" name="fechaNacimiento" required><br><br>
+
+        <label for="codigoPostal">Código Postal:</label>
+        <input type="text" id="codigoPostal" name="codigoPostal" required><br><br>
+
+        <label for="numeroTelefono">Número de Teléfono:</label>
+        <div style="display: flex; align-items: center;">
+          <input type="text" id="codigoArea" name="codigoArea" style="width: 80px;" placeholder="Área" required>
+          <input type="text" id="numeroTelefono" name="numeroTelefono" style="margin-left: 10px;" required>
+        </div><br><br>
+        
+        <label for="tipoDocumento">Tipo de Documento:</label>
+        <select id="tipoDocumento" name="tipoDocumento" required>
+          <option value="dni" disabled selected>Seleccione un tipo de documento</option>
+          <option value="dni">DNI</option>
+          <option value="pasaporte">Pasaporte</option>
+          <option value="carnet">Carnet de Identidad</option>
+          <!-- Agrega más opciones si es necesario -->
+        </select><br><br>
+      </form>
+    </div>
+    
+    <div class="form-column right-column">
+      <form action="/registro" method="post">
+        <label for="numeroDocumento">Número de Documento:</label>
+        <input type="text" id="numeroDocumento" name="numeroDocumento" required><br><br>
+
+        <label for="contrasena">Contraseña:</label>
+        <input type="password" id="contrasena" name="contrasena" required><br><br>
+
+        <label for="confirmarContrasena">Confirmar Contraseña:</label>
+        <input type="password" id="confirmarContrasena" name="confirmarContrasena" required><br><br>
+
+        <input type="checkbox" id="terminos" name="terminos" required>
+        <label for="terminos">Aceptar términos y condiciones</label><br><br>
+
+        <div class="g-recaptcha" data-sitekey="6Lc0yMwnAAAAAOz7v5s4kuoxuyi_tN7a22zEosaQ" data-action="LOGIN"></div><br><br>
+
+        <div class="button-container">
+          <button type="submit" onclick="onClick(event)">Cancelar</button>
+          <button type="button" onclick="redirectToMain()">Confirmar</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    function onClick(e) {
+      e.preventDefault();
+      grecaptcha.enterprise.ready(async () => {
+        const token = await grecaptcha.enterprise.execute('6Lc0yMwnAAAAAOz7v5s4kuoxuyi_tN7a22zEosaQ', {action: 'LOGIN'});
+        window.location.href = '/home.html'; // Cambia '/home.html' por el link del home si es necesario
+      });
+    }
+
+    function redirectToMain() {
+      window.location.href = '/home.html'; // Cambia '/home.html' por el link del home si es necesario
+    }
+  </script>
+</body>
+</html>

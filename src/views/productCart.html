@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" rel="stylesheet" /> <!-- pagina para los iconos-->
+    <link href="https://fonts.cdnfonts.com/css/applied-sans-pro" rel="stylesheet">
+    <link rel="stylesheet" href="/css/normalize.css" /> <!--para vincular a la pagina de estilos generales-->
+    <link rel="stylesheet" href="/css/styles.css" /> <!--para vilcular o conectar a la de estilos con clases-->
+    <link rel="stylesheet" href="/css/stylescarrito.css" /> 
+
+    <title>ProductCart</title>
+</head>
+
+<body>
+    <header>
+<!-- para agregar logos y encabezado que se va a repetir en todas las paginas-->
+<nav>
+    <ul>
+        <li>
+            <a  href="/register">Crea tu cuenta <i class="fa-solid fa-address-card"></i></a>
+        </li>
+        <li>
+            <a  href="/login">Si ya sos Cliente Ingresá a tu cuenta <i class="fa-solid fa-right-to-bracket"></i></a>
+        </li>
+        <li>
+            <a href="/productCart">Productos <i class="fa-solid fa-basket-shopping"></i></a>
+        </li>
+        <li>
+            <a href="#" id="cart-link">Carrito</a>
+       </li>
+    </ul>
+       
+    <main>
+        <h2>Carrito de Compras</h2>
+        <ul id="cart-items">
+            <li class="cart-item">
+                <span>Producto 1</span>
+                <span>$20</span>
+                <label for="quantity">Cantidad:</label>
+    <select id="quantity" name="quantity">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+                <button class="remove-button">Eliminar</button>
+            </li>
+            <li class="cart-item">
+                <span>Producto 2</span>
+                <span>$70</span>
+                <button class="remove-button">Eliminar</button>
+            </li>
+        <li class="cart-item">
+                <span>Producto 3</span>
+                <span>$1020</span>
+                <button class="remove-button">Eliminar</button>
+            </li>
+        </ul>
+    </main>
+    
+    <script src="scripts.js"></script>
+    </nav>
+    </header>
+
+
+
+
+
+    <footer>
+<!-- para agregar pie de pagina que se va a repetir en todas las paginas-->
+    </footer>
+    
+</body>
+</html>
