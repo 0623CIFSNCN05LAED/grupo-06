@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Mi Sitio Web</title>
+
+  <style>
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 20px;
+      background-color: #333; /* Color de fondo del encabezado */
+      color: #fff; /* Color del texto en el encabezado */
+    }
+
+    /* Estilos del logo */
+    .logo img {
+      max-width: 100px; /* Ajusta el tamaño del logo según tu diseño */
+    }
+
+    /* Estilos del campo de búsqueda */
+    .search input[type="text"] {
+      padding: 5px;
+      border: none;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+
+    .search button {
+      padding: 5px 10px;
+      background-color: #007bff; /* Color del botón de búsqueda */
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    /* Estilos del menú desplegable */
+    .menu-button {
+      background-color: transparent;
+      border: none;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #333;
+      min-width: 120px;
+      right: 0;
+    }
+
+    .menu-button:hover + .dropdown-content,
+    .dropdown-content:hover {
+      display: block;
+    }
+
+    .dropdown-content ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .dropdown-content li {
+      padding: 0;
+      margin: 0;
+    }
+
+    .dropdown-content a {
+      color: #fff;
+      padding: 10px;
+      text-decoration: none;
+      display: block;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #007bff; /* Color de fondo en el hover */
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <img src="logo.png" alt="Logo de la empresa">
+    </div>
+    <div class="search">
+      <input type="text" placeholder="Buscar...">
+      <button type="submit">Buscar</button>
+    </div>
+    <div class="menu">
+      <button class="menu-button">Menú &#9660;</button>
+      <div class="dropdown-content">
+        <ul>
+          <li><a href="#">Ayuda</a></li>
+          <li><a href="#">Contáctenos</a></li>
+          <li><a href="#">Iniciar Sesión</a></li>
+          <li><a href="#">Cerrar Sesión</a></li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <!-- nose porque no se ve en el gitttttttttttt -->
+
+</body>
+</html>
