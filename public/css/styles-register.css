@@ -20,11 +20,6 @@ body {
 }
 
 .form-container {
-  /* Estilos del formulario... */
-}
-
-/* Contenedor principal del formulario */
-.form-container {
   display: flex;
   justify-content: space-between;
   width: 640px;
